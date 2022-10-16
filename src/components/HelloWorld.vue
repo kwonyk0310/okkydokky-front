@@ -80,6 +80,9 @@
         </a>
       </li>
     </ul>
+    <v-btn block>
+      Block Button
+    </v-btn>
   </div>
 </template>
 
